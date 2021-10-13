@@ -4,5 +4,8 @@
 
 body{
     padding-top: 100px;
-    background-image: url("new york times.jpg");
+   
 }
+.container my-auto{
+     background-image: url("new york times.jpg");
+}    
