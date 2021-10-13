@@ -6,6 +6,6 @@ body{
     padding-top: 100px;
    
 }
-.container my-auto{
+#newcontainer{
      background-image: url("new york times.jpg");
 }    
